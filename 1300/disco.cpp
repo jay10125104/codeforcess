@@ -10,6 +10,9 @@ ll op2(ll a, ll b, ll m) { a = a % m; b = b % m; return (((a * b) % m) + m) % m;
 ll op3(ll a, ll b, ll m) { a = a % m; b = b % m; return (((a - b) % m) + m) % m;}
 int main(){
     int a;
+    int b;
+    cin>>b;
     
+
      return 0;
 }
